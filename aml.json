@@ -1,11 +1,21 @@
 {
-    "specialtext1": "MONDAY",
-    "specialtext2": "TUESDAY",
-    "specialtext3": "WEDNESDAY",
-    "specialtext4": "THURSDAY",
-    "specialtext5": "FRIDAY",
-    "eventtext1": 1,
-    "eventtext2": 2,
-    "eventtext3": 3,
-    "eventtext4": 4
+  "specialtext1": "MONDAY",
+  "specialimage1": "n/a",
+  "specialtext2": "TUESDAY",
+  "specialimage2": "n/a",
+  "specialtext3": "WEDNESDAY",
+  "specialimage3": "n/a",
+  "specialtext4": "THURSDAY",
+  "specialimage4": "n/a",
+  "specialtext5": "FRIDAY",
+  "specialimage5": "n/a",
+  "eventtext1": 1,
+  "eventimage1": "n/a",
+  "eventtext2": 2,
+  "eventimage2": "n/a",
+  "eventtext3": 3,
+  "eventimage3": "n/a",
+  "eventtext4": 4,
+  "eventimage4": "n/a"
 }
+
