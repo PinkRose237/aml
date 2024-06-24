@@ -1,21 +1,21 @@
 {
   "specialtext1": "MONDAY",
-  "specialimage1": "n/a",
+  "specialimage1": "",
   "specialtext2": "TUESDAY",
   "specialimage2": "https://pinkrose237.github.io/aml/Taco%20Tuesday.png",
   "specialtext3": "WEDNESDAY",
-  "specialimage3": "n/a",
+  "specialimage3": "",
   "specialtext4": "THURSDAY",
-  "specialimage4": "n/a",
+  "specialimage4": "",
   "specialtext5": "FRIDAY",
-  "specialimage5": "n/a",
+  "specialimage5": "",
   "eventtext1": "1",
-  "eventimage1": "n/a",
+  "eventimage1": "",
   "eventtext2": "2",
-  "eventimage2": "n/a",
+  "eventimage2": "",
   "eventtext3": "3",
-  "eventimage3": "n/a",
+  "eventimage3": "",
   "eventtext4": "4",
-  "eventimage4": "n/a"
+  "eventimage4": ""
 }
 
