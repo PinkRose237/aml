@@ -1,13 +1,11 @@
-[
-    {
-        "specialtext1": "MONDAY",
-        "specialtext2": "TUESDAY",
-        "specialtext3": "WEDNESDAY",
-        "specialtext4": "THURSDAY",
-        "specialtext5": "FRIDAY",
-        "eventtext1": 1,
-        "eventtext2": 2,
-        "eventtext3": 3,
-        "eventtext4": 4
-    }
-]
+{
+    "specialtext1": "MONDAY",
+    "specialtext2": "TUESDAY",
+    "specialtext3": "WEDNESDAY",
+    "specialtext4": "THURSDAY",
+    "specialtext5": "FRIDAY",
+    "eventtext1": 1,
+    "eventtext2": 2,
+    "eventtext3": 3,
+    "eventtext4": 4
+}
